@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package donneesAffichage;
+package src.donneesAffichage;
 
-import indicateur.MoyenneMobile;
+import src.indicateur.MoyenneMobile;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import modele.ListeCotisations;
+import src.modele.ListeCotisations;
 
 /**
  *

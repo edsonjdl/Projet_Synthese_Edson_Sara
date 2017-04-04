@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package controleur;
+package src.controleur;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -17,11 +17,11 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import connexionDB.DaoCotisation;
-import donneesAffichage.CreationDonneesMM;
-import donneesAffichage.DonneesAffichageMM;
-import modele.Cotisation;
-import modele.ListeCotisations;
+import src.connexionDB.DaoCotisation;
+import src.donneesAffichage.CreationDonneesMM;
+import src.donneesAffichage.DonneesAffichageMM;
+import src.modele.Cotisation;
+import src.modele.ListeCotisations;
 
 /**
  *
