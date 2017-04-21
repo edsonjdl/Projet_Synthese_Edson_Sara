@@ -1,4 +1,4 @@
-package src.connexionDB;
+package connexionDB;
 
 import java.sql.*;
 import java.io.*;

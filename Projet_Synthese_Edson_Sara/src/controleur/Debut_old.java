@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package src.controleur;
+package controleur;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -27,7 +27,7 @@ import src.modele.ListeCotisations;
  *
  * @author 1695625
  */
-public class Debut extends HttpServlet {
+public class Debut_old extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>

@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package src.connexionDB;
+package connexionDB;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -12,8 +12,8 @@ import java.sql.Statement;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
-import src.modele.Cotisation;
-import src.modele.ListeCotisations;
+import modele.Cotisation;
+import modele.ListeCotisations;
 
 /**
  *

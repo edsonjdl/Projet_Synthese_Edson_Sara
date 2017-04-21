@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package src.donneesAffichage;
+package donneesAffichage;
 
-import src.indicateur.MoyenneMobile;
-import src.modele.Cotisation;
+import indicateur.MoyenneMobile;
+import modele.Cotisation;
 
 /**
  *
